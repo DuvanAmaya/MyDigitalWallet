@@ -1,7 +1,7 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-   appId: 'com.nadir.mydigitalwallet',
+   appId: 'com.duvan.mydigitalwallet',
   appName: 'MyDigitalWallet',
   webDir: 'www',
 plugins: {

@@ -14,4 +14,3 @@ export const environment = {
 },
  googleWebClientId: '54339445930-3q5kn0scqub56hkeuoc42arqdmbbpuhn.apps.googleusercontent.com'
 };
-
