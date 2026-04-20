@@ -1,11 +1,11 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace "com.nadir.mydigitalwallet"  // ← agrega esta línea
+    namespace "com.duvan.mydigitalwallet"  // ← agrega esta línea
     compileSdk rootProject.ext.compileSdkVersion
-    
+
     defaultConfig {
-        applicationId "com.nadir.mydigitalwallet"
+        applicationId "com.duvan.mydigitalwallet"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

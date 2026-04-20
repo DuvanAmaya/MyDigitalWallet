@@ -1,73 +1,26 @@
 {
   "project_info": {
-    "project_number": "54339445930",
-    "project_id": "mydigitalwallet-7b7d7",
-    "storage_bucket": "mydigitalwallet-7b7d7.firebasestorage.app"
+    "project_number": "177101629115",
+    "project_id": "mydigitalwallet-23ef3",
+    "storage_bucket": "mydigitalwallet-23ef3.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:54339445930:android:d9a31d94e70666e6001cd3",
+        "mobilesdk_app_id": "1:177101629115:android:e392117f2478c5be022b9e",
         "android_client_info": {
-          "package_name": "My.Digital.Wallet"
+          "package_name": "com.duvan.mydigitalwallet"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "54339445930-3q5kn0scqub56hkeuoc42arqdmbbpuhn.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCWivKeJAN0VzLVxQHjhyn2fttmGqZuuKw"
+          "current_key": "AIzaSyBCY-f_aBNVFjLOXbZjP8-dwe5T2tzw7vY"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "54339445930-3q5kn0scqub56hkeuoc42arqdmbbpuhn.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:54339445930:android:d8cb448c00fc7fd4001cd3",
-        "android_client_info": {
-          "package_name": "com.nadir.mydigitalwallet"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "54339445930-guf03tloe03io3n5n71keqs5489pebc1.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.nadir.mydigitalwallet",
-            "certificate_hash": "a4e1defd55c110a1f26c6595fc81bb8263617d7d"
-          }
-        },
-        {
-          "client_id": "54339445930-3q5kn0scqub56hkeuoc42arqdmbbpuhn.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCWivKeJAN0VzLVxQHjhyn2fttmGqZuuKw"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "54339445930-3q5kn0scqub56hkeuoc42arqdmbbpuhn.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }

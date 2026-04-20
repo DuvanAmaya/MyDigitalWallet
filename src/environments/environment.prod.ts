@@ -1,12 +1,12 @@
 export const environment = {
   production: true,
   firebaseConfig: {
-    apiKey: "AIzaSyCvIgrzWdMrr-e3uQghyciR_1UuM0ap1O0",
-    authDomain: "mydigitalwallet-7b7d7.firebaseapp.com",
-    projectId: "mydigitalwallet-7b7d7",
-    storageBucket: "mydigitalwallet-7b7d7.firebasestorage.app",
-    messagingSenderId: "54339445930",
-    appId: "1:54339445930:web:4de23669d9a24a9e001cd3"
+    apiKey: "AIzaSyCJFYzbd1T7Xer8agnmM6GB1njoxUXciAQ",
+  authDomain: "mydigitalwallet-23ef3.firebaseapp.com",
+  projectId: "mydigitalwallet-23ef3",
+  storageBucket: "mydigitalwallet-23ef3.firebasestorage.app",
+  messagingSenderId: "177101629115",
+  appId: "1:177101629115:web:bf727f7f4e95a33c022b9e",
   },
-  googleWebClientId: '54339445930-3q5kn0scqub56hkeuoc42arqdmbbpuhn.apps.googleusercontent.com' 
+  googleWebClientId: '54339445930-3q5kn0scqub56hkeuoc42arqdmbbpuhn.apps.googleusercontent.com'
 };
